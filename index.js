@@ -1,4 +1,4 @@
-function add7(number){
-     return number + 20;
+function add7(num){
+     return parseInt(num) + 20;
 }
- console.log(number(7));
+ console.log(add7("7"));
